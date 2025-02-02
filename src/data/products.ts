@@ -15,9 +15,9 @@ export const products = [
   },
   {
     id: 3,
-    name: "Yeager Attack on Titan v4 Acid washed Oversized T-Shirt",
+    name: "Dystopia Oversized Tee",
     price: 1599,
-    image: "https://wylln.in/wp-content/uploads/2025/01/W0-wyln-%E2%80%93-114-1-768x1154.jpg",
+    image: "https://onefortee.com/cdn/shop/files/2.1_800x.png?v=1738348225",
     description: "LIMITED TO 15 PIECES- EACH NUMBERED: Dispatches in 2.5 weeks (pre-order)"
   },
   {
