@@ -17,7 +17,7 @@ export const products = [
     id: 3,
     name: "Yeager Attack on Titan v4 Acid washed Oversized T-Shirt",
     price: 1599,
-    image: "https://wylln.in/wp-content/uploads/2025/01/W0-wyln-%E2%80%93-118.jpg",
+    image: "https://wylln.in/wp-content/uploads/2025/01/W0-wyln-%E2%80%93-118-768x1154.jpg",
     description: "LIMITED TO 15 PIECES- EACH NUMBERED: Dispatches in 2.5 weeks (pre-order)"
   },
   {
