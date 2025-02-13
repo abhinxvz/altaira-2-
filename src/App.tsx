@@ -47,7 +47,7 @@ function App() {
             <div 
               className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
               style={{ 
-                backgroundImage: 'url("https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85330.jpg?t=st=1738475343~exp=1738478943~hmac=953107f7868de7b3afdbb72fdaf75c6a668649abe517ecc82daebfca4efb8fe8&w=1380")',
+                backgroundImage: 'url("https://images.hdqwalls.com/wallpapers/lightning-storm-red-sky-5k-2d.jpg")',
                 backgroundAttachment: 'fixed'
               }}
             />
@@ -78,7 +78,7 @@ function App() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
             style={{ 
-              backgroundImage: 'url("https://images5.alphacoders.com/964/thumb-1920-964776.png")',
+              backgroundImage: 'url("https://c.wallhere.com/photos/b2/46/Lust_Envy_Gluttony_Greed_homunculus-188931.jpg!d")',
               backgroundAttachment: 'fixed'
             }}
           />
@@ -112,7 +112,7 @@ function App() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
             style={{ 
-              backgroundImage: 'url("https://images5.alphacoders.com/964/thumb-1920-964776.png")',
+              backgroundImage: 'url("https://c.wallhere.com/photos/b2/46/Lust_Envy_Gluttony_Greed_homunculus-188931.jpg!d")',
               backgroundAttachment: 'fixed'
             }}
           />

@@ -15,37 +15,38 @@ export const products = [
   },
   {
     id: 3,
-    name: "Void Claw",
+    name: "TOXIC OVERSIZED TEE",
     price: 1599,
-    image: "https://onefortee.com/cdn/shop/files/IMG-8566.jpg?v=1727439524&width=493",
+    image: "https://onefortee.com/cdn/shop/files/DSC1851_1199x1800.jpg?v=1723901564",
     description: "LIMITED TO 15 PIECES- EACH NUMBERED: Dispatches in 2.5 weeks (pre-order)"
   },
   {
     id: 4,
-    name: "NOT FOR SALE HOODIE",
-    price: 1199,
-    image: "https://onefortee.com/cdn/shop/files/DSC3724.jpg?v=1725008153&width=493",
-    description: "This hoodie is truly priceless. It's not for sale, making it a unique and exclusive item. Stay warm and stylish with this one-of-a-kind hoodie🗿"
+    name: "SPACE OVERSIZED TEE",
+    price: 899,
+    image: "https://onefortee.com/cdn/shop/files/DSC3319_800x.jpg?v=1717657993",
+    description: "Space is the final frontier. Our SPACE OVERSIZED TEE is designed to capture the essence of the cosmos and the mysteries of the universe. Wear this tee to express your love for the stars and the unknown. Made for those who dream of exploring the infinite possibilities of space🌌"
   },
   {
     id: 5,
-    name: "REBEL HOODIE",
-    price: 1399,
-    image: "https://onefortee.com/cdn/shop/files/DSC3858.jpg?v=1723900771&width=493",
-    description: "Unleash your rebellious spirit with our REBEL HOODIE. Made for those who embrace nonconformity and challenge the status quo. This hoodie is the perfect statement piece for the subversive at heart. Express yourself fearlessly and stand out in style🌀"
+    name: "BOLD AMPLIFY TEE",
+    price: 699,
+    image: "https://onefortee.com/cdn/shop/files/DSC1472_800x.jpg?v=1725006787",
+    description: "Be bold, be brave, be you. Our BOLD AMPLIFY TEE is designed to empower you to be your true self. Wear this tee to express your individuality and stand out from the crowd. Made for those who dare to be different and embrace their uniqueness"
   },
   {
     id: 6,
-    name: "Euphoria Tee",
+    name: "EUPHORIA TEE",
     price: 699,
     image: "https://onefortee.com/cdn/shop/files/DSC9188_900x.jpg?v=1725007212",
     description: "Vibe of the day: Euphoria. Our Euphoria Tee is designed to capture the essence of pure joy and happiness. Wear this tee to spread positivity and good vibes wherever you go. Made with love and care for those who appreciate the beauty of life"
   },
   {
     id: 7,
-    name: "Tunes Bun Hun Oversized Sweatshirt ",
-    price: 1899,
-    image: "https://www.bonkerscorner.com/cdn/shop/files/Bonkerscorner_Tunes_Bun_Hun_OversizedSweatshirt_4_960x_crop_center.jpg?v=1734518978",
-    description: "The Tunes Bun Hun Oversized Sweatshirt is a must-have product for all the bugs bunny fans out there.The oversized fit of this sweatshirt makes it perfect for lounging around the house or running errands. The Tunes Bun Hun Oversized Sweatshirt is available in a range of sizes and colors, so you can find the perfect fit for you. Order yours today and show off your love for bugs bunny in style!"
+    name: "DYSTOPIA OVERSIZED TEE",
+    price: 899,
+    image: "https://onefortee.com/cdn/shop/files/2.1_800x.png?v=1738348225",
+    description: "Embrace the dark side with our Dystopia Oversized Tee. This tee is designed to reflect the raw and unfiltered reality of the world. Wear this tee to express your innermost thoughts and emotions. Made for those who appreciate the beauty in darkness"
   }
+  
 ];

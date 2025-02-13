@@ -25,7 +25,7 @@ const About = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
         style={{ 
-          backgroundImage: 'url("https://images5.alphacoders.com/964/thumb-1920-964776.png")',
+          backgroundImage: 'url("https://c.wallhere.com/photos/b2/46/Lust_Envy_Gluttony_Greed_homunculus-188931.jpg!d")',
           backgroundAttachment: 'fixed'
         }}
       />
